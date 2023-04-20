@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h1>Modificando titulo Pagina Web</h1>
+  <h2>ta bueno github</h2>
 </body>
 </html>
